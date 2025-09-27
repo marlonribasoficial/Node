@@ -19,4 +19,4 @@ Esse é meu terceiro projeto desenvolvido durante o quarto challenge do Apple De
 Este projeto foi feito com a colaboração de: **Agnes Manoel**, **Gabriel Lima**, **Maria Cecília**, **Vinícius Garcia**.
 
 ## 🔗 Repositório
-[![GitHub](https://img.shields.io/badge/GitHub-Repositório-blue?style=for-the-badge&logo=github)](https://github.com/GabrielGardini/lalalendo)
+[![GitHub](https://img.shields.io/badge/GitHub-Repositório-blue?style=for-the-badge&logo=github)](https://github.com/ceciliatv/Node)
