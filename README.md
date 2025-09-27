@@ -16,7 +16,11 @@ Esse é meu terceiro projeto desenvolvido durante o quarto challenge do Apple De
 - **Swift**, **SwiftUI**, **APIs**, **CloudKit** e **CreateML**
 
 ## 👥 Equipe
-Este projeto foi feito com a colaboração de: **Agnes Manoel**, **Gabriel Lima**, **Maria Cecília**, **Vinícius Garcia**.
+Este projeto foi feito com a colaboração de:
+- **Agnes Manoel**
+- **Gabriel Lima**
+- **Maria Cecília**
+- **Vinícius Garcia**.
 
 ## 🔗 Repositório
 [![GitHub](https://img.shields.io/badge/GitHub-Repositório-blue?style=for-the-badge&logo=github)](https://github.com/ceciliatv/Node)
