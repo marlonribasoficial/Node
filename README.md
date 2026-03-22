@@ -19,19 +19,10 @@ Desenvolvido durante o quarto challenge do **Apple Developer Academy**, este foi
 ## 🖼️ Preview do App
 
 <div align="center">
-  <img src="images/tela1.png" width="250" />
-  <img src="images/tela2.png" width="250" />
-  <img src="images/tela3.png" width="250" />
+  <img src="tela1.png" width="250" />
+  <img src="tela2.png" width="250" />
+  <img src="tela3.png" width="250" />
 </div>
-
-### 📱 Tela 1
-![Tela 1](tela1.png)
-
-### 📱 Tela 2
-![Tela 2](tela2.png)
-
-### 📱 Tela 3
-![Tela 3](tela3.png)
 
 ---
 
