@@ -1,8 +1,6 @@
 # Node
 
 ![Status](https://img.shields.io/badge/status-concluído-DC2626?style=for-the-badge)
-![Projeto](https://img.shields.io/badge/Apple%20Developer%20Academy-Challenge-DC2626?style=for-the-badge&logo=apple)
-
 ![Swift](https://img.shields.io/badge/Swift-5-orange?style=for-the-badge&logo=swift)
 ![UI](https://img.shields.io/badge/UI-SwiftUI%20%2B%20UIKit-DC2626?style=for-the-badge&logo=apple)
 ![Backend](https://img.shields.io/badge/Backend-CloudKit-DC2626?style=for-the-badge&logo=icloud)
@@ -19,6 +17,12 @@ Desenvolvido durante o quarto challenge do **Apple Developer Academy**, este foi
 ---
 
 ## 🖼️ Preview do App
+
+<div align="center">
+  <img src="images/tela1.png" width="250" />
+  <img src="images/tela2.png" width="250" />
+  <img src="images/tela3.png" width="250" />
+</div>
 
 ### 📱 Tela 1
 ![Tela 1](tela1.png)
