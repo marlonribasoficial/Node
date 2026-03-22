@@ -1,26 +1,78 @@
 # Node
-Esse é meu terceiro projeto desenvolvido durante o quarto challenge do Apple Developer Academy.
 
-## 🚀 Sobre o Projeto
-"**Node**", um aplicativo onde você pode conectar músicas, filmes, séries e livros.
+![Status](https://img.shields.io/badge/status-concluído-DC2626?style=for-the-badge)
+![Projeto](https://img.shields.io/badge/Apple%20Developer%20Academy-Challenge-DC2626?style=for-the-badge&logo=apple)
 
-### ✨ Features
-- Criar **Nodes**, conectando diferentes mídias, adicionando um título e descrição para compartilhar no app e/ou em outras redes.
+![Swift](https://img.shields.io/badge/Swift-5-orange?style=for-the-badge&logo=swift)
+![UI](https://img.shields.io/badge/UI-SwiftUI%20%2B%20UIKit-DC2626?style=for-the-badge&logo=apple)
+![Backend](https://img.shields.io/badge/Backend-CloudKit-DC2626?style=for-the-badge&logo=icloud)
+![ML](https://img.shields.io/badge/Machine%20Learning-CreateML-DC2626?style=for-the-badge)
 
-- Usar o **Diary** para registrar uma mídia favorita, marcar como relog, definir datas, avaliar com até 5 estrelas, escrever uma review e publicar.
+---
 
-- Publicar um **Post**, escrevendo textos longos sobre até 10 mídias, com título e imagem de capa.
+## 📚 Sobre o Projeto
 
-## 🛠️ Tecnologias Utilizadas e Aprendidas
+O **Node** é um aplicativo que permite conectar diferentes tipos de mídia — como músicas, filmes, séries e livros — criando relações entre conteúdos e experiências.
 
-- **Swift**, **SwiftUI**, **APIs**, **CloudKit** e **CreateML**
+Desenvolvido durante o quarto challenge do **Apple Developer Academy**, este foi meu terceiro projeto dentro do programa.
+
+---
+
+## 🖼️ Preview do App
+
+### 📱 Tela 1
+![Tela 1](tela1.png)
+
+### 📱 Tela 2
+![Tela 2](tela2.png)
+
+### 📱 Tela 3
+![Tela 3](tela3.png)
+
+---
+
+## ✨ Features
+
+### 🔗 Nodes
+- Conecte diferentes mídias em um único espaço  
+- Adicione título e descrição  
+- Compartilhe dentro do app ou em redes externas  
+
+### 📔 Diary
+- Registre mídias favoritas  
+- Marque como *relog*  
+- Defina datas de consumo  
+- Avalie com até ⭐⭐⭐⭐⭐  
+- Escreva reviews e publique  
+
+### 📝 Posts
+- Crie textos longos  
+- Relacione até 10 mídias em um único post  
+- Adicione título e imagem de capa  
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- 🔴 **Swift**
+- 🔴 **SwiftUI + UIKit**
+- 🔴 **APIs**
+- 🔴 **CloudKit**
+- 🔴 **CreateML**
+
+---
 
 ## 👥 Equipe
-Este projeto foi feito com a colaboração de:
-- **Agnes Manoel**
-- **Gabriel Lima**
-- **Maria Cecília**
-- **Vinícius Garcia**
+
+Este projeto foi desenvolvido em colaboração com:
+
+- Agnes Manoel  
+- Gabriel Lima  
+- Maria Cecília  
+- Vinícius Garcia  
+
+---
 
 ## 🔗 Repositório
-[![GitHub](https://img.shields.io/badge/GitHub-Repositório-blue?style=for-the-badge&logo=github)](https://github.com/ceciliatv/Node)
+
+[![GitHub](https://img.shields.io/badge/Acessar%20Repositório-DC2626?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ceciliatv/Node)
