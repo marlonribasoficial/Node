@@ -1,7 +1,6 @@
 # Node
 
 ![Status](https://img.shields.io/badge/status-concluído-DC2626?style=for-the-badge)
-![Swift](https://img.shields.io/badge/Swift-5-orange?style=for-the-badge&logo=swift)
 ![UI](https://img.shields.io/badge/UI-SwiftUI%20%2B%20UIKit-DC2626?style=for-the-badge&logo=apple)
 ![Backend](https://img.shields.io/badge/Backend-CloudKit-DC2626?style=for-the-badge&logo=icloud)
 ![ML](https://img.shields.io/badge/Machine%20Learning-CreateML-DC2626?style=for-the-badge)
